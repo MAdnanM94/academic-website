@@ -32,12 +32,6 @@ subtitle = ""
   name = "Data Analytics"
   description = "Intermediate"
   
- [[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "Data Analytics"
-  description = "Intermediate"
-
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
