@@ -30,7 +30,7 @@ tags:
 - Public Goods
 - Punishment
 - Teams
-featured: false
+featured: true
 
 links:
  # url_pdf: "pgg_teams.pdf"
