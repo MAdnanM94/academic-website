@@ -30,6 +30,8 @@ tags:
 featured: false
 
 links:
+  -name: Custom
+    url: www.google.com
   url_pdf: "pgg_teams.pdf"
  # url_code: '#'
  # url_dataset: '#'
