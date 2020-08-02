@@ -30,7 +30,7 @@ tags:
 featured: false
 
 links:
-  url_pdf: ''
+  url_pdf: "pgg_teams.pdf"
  # url_code: '#'
  # url_dataset: '#'
  # url_poster: '#'
