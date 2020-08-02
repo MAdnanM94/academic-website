@@ -26,7 +26,10 @@ abstract: We experimentally investigate the behavior of teams in a public goods 
 summary: We investigate behavior in Public Goods Games under both monetary and non-monetary punishment options with teams of two as decision makers. We find that teams are  teams contribute significantly lower under non-monetary punishment, compared to monetary punishment.
 
 tags:
-- Source Themes
+- Experiments
+- Public Goods
+- Punishment
+- Teams
 featured: false
 
 links:
