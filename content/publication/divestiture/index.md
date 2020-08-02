@@ -24,7 +24,10 @@ abstract: I document the effects of a divestiture in the US male deodorant indus
 summary: I analyze the effects of a divestiture in the US male deodorant industry following the P&G-Gillette merger in 2005. Simulations suggest that compared to a no merger baseline, the divestiture reduces prices on average and raises consumer welfare.
 
 tags:
-- Source Themes
+- Merger
+- Divestiture
+- Merger Simulation
+- Ex-Post Merger Analysis
 featured: false
 
 links:
