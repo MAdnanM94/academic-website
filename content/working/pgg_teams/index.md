@@ -30,7 +30,7 @@ tags:
 featured: false
 
 links:
-  url_pdf: 'PGG_Teams - Adnan.pdf'
+  url_pdf: ''
  # url_code: '#'
  # url_dataset: '#'
  # url_poster: '#'
