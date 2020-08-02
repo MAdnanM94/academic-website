@@ -1,5 +1,5 @@
 +++
-# A Featured Publications section created with the Featured Content widget.
+# A Featured Papers section created with the Featured Content widget.
 # This section displays publications from `content/publication/` which have
 # `featured = true` in their front matter.
 
@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Featured Publications"
+title = "Featured Papers"
 subtitle = ""
 
 [content]
