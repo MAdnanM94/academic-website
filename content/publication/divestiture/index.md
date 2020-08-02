@@ -2,7 +2,7 @@
 title: "Impact of Divestitures: A closer look at the P&G - Gillette Merger"
 authors:
 - admin
-date: "2019-05-31T00:00:00Z"
+date: "2019-05-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
