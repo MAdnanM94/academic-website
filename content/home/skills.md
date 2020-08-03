@@ -18,19 +18,19 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Intermediate"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "Advanced"  
+  description = ""  
   
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "Data Analytics"
-  description = "Intermediate"
+  description = ""
   
 # Uncomment to use emoji icons.
 # [[feature]]
@@ -42,10 +42,10 @@ subtitle = ""
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# [[feature]]
-#  icon = "your-custom-icon-name"
-#  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
+[[feature]]
+  icon = "matlab"
+  icon_pack = "custom"
+  name = "Matlab"
+  description = ""
 
 +++
