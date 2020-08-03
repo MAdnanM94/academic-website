@@ -70,6 +70,6 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD Candidate in the Department of Economics at The Ohio State University. My research interests lie in the intersection between Experimental Economics and Economics of Information. More specifically, I am interested in understanding how access to information plays a role in economic decision making under various environments of uncertainty.
+I am a PhD Candidate in the Department of Economics at The Ohio State University. My research interests lie in the intersection between Experimental Economics and Economics of Information. More specifically, I am interested in understanding how access to information plays a role in economic decision making under various environments of uncertainty. My work focuses on developing and testing models of strategic decision making under uncertainty in the lab.
 
 On the side, I am an avid reader (mainly enjoying works of fiction, especially Sci-Fi), a tech enthusiast and a beginner violinist.
