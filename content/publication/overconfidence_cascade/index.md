@@ -19,9 +19,9 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: We experimentally analyze how overconfidence in one's relative expertise impacts cascade formation in the lab. We modify the informational cascade settings of Anderson and Holt (1997) and Noth and Weber (2003) to allow for signal accuracy to vary with an individual's skill. Leveraging results from Moore and Healy (2008), we leverage that __over-estimation__ in one's ability, and __over-placement__ of one's ability (relative to others) end up delaying cascade formation. We design an experiment to test this hypothesis.
+abstract: We experimentally analyze how overconfidence in one's relative expertise impacts cascade formation in the lab. We modify the informational cascade settings of Anderson and Holt (1997) and Noth and Weber (2003) to allow for signal accuracy to vary with an individual's skill. Leveraging results from Moore and Healy (2008), we hypothesize that __over-estimation__ in one's ability, and __over-placement__ of one's ability (relative to others) end up delaying cascade formation. We design an experiment to test this hypothesis.
 # Summary. An optional shortened abstract.
-summary: We experimentally analyze how overconfidence in one's relative expertise impacts cascade formation in the lab. We modify the informational cascade settings of Anderson and Holt (1997) and Noth and Weber (2003) to allow for signal accuracy to vary with an individual's skill. Leveraging results from Moore and Healy (2008), we leverage that __over-estimation__ in one's ability, and __over-placement__ of one's ability (relative to others) end up delaying cascade formation. We design an experiment to test this hypothesis.
+summary: We experimentally analyze how overconfidence in one's relative expertise impacts cascade formation in the lab. We modify the informational cascade settings of Anderson and Holt (1997) and Noth and Weber (2003) to allow for signal accuracy to vary with an individual's skill. Leveraging results from Moore and Healy (2008), we hypothesize that __over-estimation__ in one's ability, and __over-placement__ of one's ability (relative to others) end up delaying cascade formation. We design an experiment to test this hypothesis.
 
 tags:
 - Overconfidence
@@ -40,7 +40,7 @@ links:
 # url_video: '#'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""

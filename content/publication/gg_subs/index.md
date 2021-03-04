@@ -18,9 +18,9 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: I experimentally investigate behavior in a game with strategic substitutes using the Global Games paridgm of Carlsson and van Damme (1993). Leveraging uniqueness results from Harrison and Jara-Moroni (2020), I design an experiment to investigate strategic behavior in a market-entry setting under payoff certainty (complete information) and payoff uncertainty (incomplete information).
+abstract: I experimentally investigate behavior in a game with strategic substitutes using the Global Games paradigm of Carlsson and van Damme (1993). Leveraging uniqueness results from Harrison and Jara-Moroni (2020), I design an experiment to investigate strategic behavior in a market-entry setting under payoff certainty (complete information) and payoff uncertainty (incomplete information).
 # Summary. An optional shortened abstract.
-summary: I experimentally investigate behavior in a game with strategic substitutes using the Global Games paridgm of Carlsson and van Damme (1993). Leveraging uniqueness results from Harrison and Jara-Moroni (2020), I design an experiment to investigate strategic behavior in a market-entry setting under payoff certainty (complete information) and payoff uncertainty (incomplete information).
+summary: I experimentally investigate behavior in a game with strategic substitutes using the Global Games paradigm of Carlsson and van Damme (1993). Leveraging uniqueness results from Harrison and Jara-Moroni (2020), I design an experiment to investigate strategic behavior in a market-entry setting under payoff certainty (complete information) and payoff uncertainty (incomplete information).
 
 tags:
 - Global Games
@@ -40,7 +40,7 @@ links:
 # url_video: '#'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
