@@ -66,3 +66,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+To see a full list of my papers, [click here]({{< ref "/research" >}})
