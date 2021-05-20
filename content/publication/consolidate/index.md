@@ -1,8 +1,6 @@
 ---
 title: "Sharing information: Could Experts Consolidate?"
-authors:
-- Jason Tayawa
-- admin
+authors: []
 date: "2020-03-28T00:00:00Z"
 doi: ""
 
@@ -19,10 +17,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: In this paper, we analyze a cooperative model of information sharing among experts under four types of information structures, three of which are standard assumptions in the literature. We construct a transferable utility game, called commission games, which captures the value of information for a coalition of experts. We find that the core is empty for commission games that have information structures that satisfy symmetric monotone likelihood ratio property, conditional independence, or perfect correlation. We find a necessary condition that a weaker form of monotone likelihood ratio property leads to indifference between sharing and no sharing if the core exists. Lastly, we give a sufficient condition on the information structure for existence of core, which imposes strong complementarity of information between experts.
+abstract: In this paper, we analyze a cooperative model of information sharing among experts under four types of information structures, three of which are standard assumptions in the literature. We construct a transferable utility game, called commission games, which captures the value of information for a coalition of experts. We find that the core is empty for commission games that have information structures that satisfy symmetric monotone likelihood ratio property, conditional independence, or perfect correlation. We find a necessary condition that a weaker form of monotone likelihood ratio property leads to indifference between sharing and no sharing if the core exists. Lastly, we give a sufficient condition on the information structure for existence of core, which imposes strong complementarity of information between experts.<br><br>(*Joint with Jason Tayawa*)
 
 # Summary. An optional shortened abstract.
-summary: We develop a model of information sharing using cooperative game theory. We demonstrate non-existence of the core under standard assumptions in the literature (perfect correlation or conditional independence). We find that strong complementarity of information structures is sufficient for the existence of a core.
+summary: (*Joint with Jason Tayawa*)<br><br>We develop a model of information sharing using cooperative game theory. We demonstrate non-existence of the core under standard assumptions in the literature (perfect correlation or conditional independence). We find that strong complementarity of information structures is sufficient for the existence of a core.
 
 tags:
 - Source Themes
@@ -39,7 +37,7 @@ links:
 #url_video: '#'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""

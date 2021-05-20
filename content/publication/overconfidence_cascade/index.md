@@ -1,13 +1,11 @@
 ---
 title: "To follow the Herd or break away? Information Cascades as a result of Overconfidence"
-authors:
-- admin
-- Jason Tayawa
-date: "2020-10-01T00:00:00Z"
+authors: []
+date: "2021-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-10-01T00:00:00Z"
+publishDate: "2021-04-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,9 +17,9 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: We experimentally analyze how overconfidence in one's relative expertise impacts cascade formation in the lab. We modify the informational cascade settings of Anderson and Holt (1997) and Noth and Weber (2003) to allow for signal accuracy to vary with an individual's skill. Leveraging results from Moore and Healy (2008), we hypothesize that __over-estimation__ in one's ability, and __over-placement__ of one's ability (relative to others) end up delaying cascade formation. We design an experiment to test this hypothesis.
+abstract: We experimentally analyze how overconfidence in one's relative expertise impacts cascade formation in the lab. We modify the informational cascade settings of Anderson and Holt (1997) to allow for signal accuracy to vary with an individual's skill. Leveraging results from Moore and Healy (2008), we hypothesize that __over-estimation__ in one's ability, and __over-placement__ of one's ability (relative to others) end up reducing cascade-like behavior. We design an experiment to test this hypothesis.<br><br>(*Joint with Jason Tayawa*)
 # Summary. An optional shortened abstract.
-summary: We experimentally analyze how overconfidence in one's relative expertise impacts cascade formation in the lab. We modify the informational cascade settings of Anderson and Holt (1997) and Noth and Weber (2003) to allow for signal accuracy to vary with an individual's skill. Leveraging results from Moore and Healy (2008), we hypothesize that __over-estimation__ in one's ability, and __over-placement__ of one's ability (relative to others) end up delaying cascade formation. We design an experiment to test this hypothesis.
+summary: (*Joint with Jason Tayawa*)<br><br>We experimentally analyze how overconfidence in one's relative expertise impacts cascade formation in the lab. We modify the informational cascade settings of Anderson and Holt (1997) to allow for signal accuracy to vary with an individual's skill. Leveraging results from Moore and Healy (2008), we hypothesize that __over-estimation__ in one's ability, and __over-placement__ of one's ability (relative to others) end up reducing cascade-like behavior. We design an experiment to test this hypothesis.
 
 tags:
 - Overconfidence
