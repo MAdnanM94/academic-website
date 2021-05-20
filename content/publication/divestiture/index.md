@@ -1,7 +1,6 @@
 ---
 title: "Impact of Divestitures: A closer look at the P&G - Gillette Merger"
-authors:
-- admin
+authors: []
 date: "2019-05-28T00:00:00Z"
 doi: ""
 
@@ -18,10 +17,10 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: I document the effects of a divestiture in the US male deodorant industry following the Procter & Gamble-Gillette merger in 2005. Difference-in-Difference estimates show that prices of the divested and retained products fell post divestiture. I estimate a structural model and run simulations to determine the effect of the merger and the divestiture on prices and welfare. Ex-ante simulations show that, without accounting for merger efficiencies, the divestiture is predicted to decrease prices of deodorants on average by 0.21%, compared to a no divestiture situation and increases welfare by 0.086%. I also run simulations while accounting for merger efficiencies. I find that relative to a no merger baseline, the merger without divestiture raises prices by 0.57%. I also find that the divestiture helps decrease prices substantially by 2.7% relative to a no merger baseline and increases consumer welfare by 3.4% 
+abstract: I document the effects of a divestiture in the US male deodorant industry following the Procter & Gamble-Gillette merger in 2005. Difference-in-Difference estimates show that prices of the divested and retained products fell post divestiture. I estimate a structural model and run simulations to determine the effect of the merger and the divestiture on prices and welfare. Ex-ante simulations show that, without accounting for merger efficiencies, the divestiture is predicted to decrease prices of deodorants on average by 0.21%, compared to a no divestiture situation and increases welfare by 0.086%. I also run simulations while accounting for merger efficiencies. I find that relative to a no merger baseline, the merger without divestiture raises prices by 0.57%. I also find that the divestiture helps decrease prices substantially by 2.7% relative to a no merger baseline and increases consumer welfare by 3.4%
 
 # Summary. An optional shortened abstract.
-summary: I analyze the effects of a divestiture in the US male deodorant industry following the P&G-Gillette merger in 2005. Simulations suggest that compared to a no merger baseline, the divestiture reduces prices on average and raises consumer welfare.
+summary: <br>I analyze the effects of a divestiture in the US male deodorant industry following the P&G-Gillette merger in 2005. Simulations suggest that compared to a no merger baseline, the divestiture reduces prices on average and raises consumer welfare.
 
 tags:
 - Merger
@@ -41,7 +40,7 @@ links:
 # url_video: '#'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""

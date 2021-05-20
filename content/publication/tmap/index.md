@@ -1,7 +1,6 @@
 ---
 title: "A Matching Theory Approach to the Time Minimization Assignment Problem."
-authors:
-  - admin
+authors: []
 date: "2019-05-29T00:00:00Z"
 doi: ""
 
@@ -21,7 +20,7 @@ publication_short: ""
 abstract: We apply a mechanism design approach to the time minimization assignment problem studied in the operations research literature. A group of workers is to be assigned to tasks. Workers have preferences over tasks as well as scores that determine their compatibility with the tasks. Tasks have a priority schedule that is dependent on the workers’ scores. We introduce a notion of time taken to complete a task based on the weakest link principle and use the metric of time minimization as a means of comparison. We look at existing matching mechanisms and compare how they perform in terms of notions of stability and time minimization. We find inconclusive evidence of a particular mechanism outperforming the others in this regard
 
 # Summary. An optional shortened abstract.
-summary: We analyze the time minimization assignment problem through the lens of matching theory to incorporate notions of stability. We find inconclusive evidence of any particular mechanism outperforming any others.
+summary: <br> We analyze the time minimization assignment problem through the lens of matching theory to incorporate notions of stability. We find inconclusive evidence of any particular mechanism outperforming any others.
 
 tags:
 - Matching
@@ -41,7 +40,7 @@ links:
  # url_video: '#'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
