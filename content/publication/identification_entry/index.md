@@ -1,8 +1,6 @@
 ---
 title: "Identification and Misspecification in Entry Games"
-authors:
-- admin
-- John Rehbeck
+authors: []
 date: "2021-05-20T00:00:00Z"
 doi: ""
 
@@ -19,9 +17,9 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: We examine how economic experiments can be used to examine model misspecification and provide identifying information on equilibrium selection procedures for entry games.
+abstract:  We examine how economic experiments can be used to examine model misspecification and provide identifying information on equilibrium selection procedures for entry games. <br><br> (*joint with [John Rehbeck](https://sites.google.com/site/johnrehbeck/)*)
 # Summary. An optional shortened abstract.
-summary: We examine how economic experiments can be used to examine model misspecification and provide identifying information on equilibrium selection procedures for entry games.
+summary: (*joint with [John Rehbeck](https://sites.google.com/site/johnrehbeck/)*) <br><br> We examine how economic experiments can be used to examine model misspecification and provide identifying information on equilibrium selection procedures for entry games.
 
 tags:
 - Identification
