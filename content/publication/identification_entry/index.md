@@ -2,7 +2,7 @@
 title: "Identification and Misspecification in Entry Games"
 authors:
 - admin
-- [John Rehbeck](https://sites.google.com/site/johnrehbeck/)
+- John Rehbeck
 date: "2021-05-20T00:00:00Z"
 doi: ""
 
